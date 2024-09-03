@@ -1,0 +1,17 @@
+{
+  "name": "insertkeyworkdata",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "node": "^22.7.0",
+    "pg": "^8.12.0",
+    "xlsx": "^0.18.5"
+  }
+}
